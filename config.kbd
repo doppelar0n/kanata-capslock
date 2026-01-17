@@ -7,5 +7,5 @@
 )
 
 (deflayermap (base)
-  caps A-f6
+  caps S-A-f6
 )
