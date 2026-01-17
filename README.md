@@ -1,10 +1,10 @@
 # kanata-capslock
 
-Diese Repository enthält meine **Kanata-Konfiguration**, um **Caps Lock** auf meinem System umzubelegen.  
-Die aktuelle Config mappt Caps Lock auf eine Window-Manager-Funktion (Alt+F6 bei mir), kann aber leicht angepasst werden.
+This repository contains my **Kanata configuration** to remap **Caps Lock** on my system.  
+Currently, Caps Lock is mapped to a window manager function (Alt+F6 for me), but it can be easily customized.
 
 ## Installation
 
-1. Kanata installieren: [https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)  
-2. Die Config nach `~/.config/kanata/config.kbd` kopieren.  
-3. Kanata starten oder als Systemd-Service einrichten (siehe Dokumentation).
+1. Install Kanata: [https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)  
+2. Copy the config to `~/.config/kanata/config.kbd`.  
+3. Start Kanata or set it up as a systemd service (see Kanata documentation).
